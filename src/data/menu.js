@@ -1,5 +1,5 @@
 export const categories = [
-  { en: 'KABSA', ar: 'كبسة', img: '../public/kabsa.png' },
+  { en: 'KABSA', ar: 'كبسة', img: '/kabsa.png' },
   { en: 'BROAST', ar: 'بروست', img: '../public/broast.png' },
   { en: 'BURGERS', ar: 'برغر', img: '../public/burgers.png' },
   { en: 'ZINGER', ar: 'زنجر', img: '../public/zinger.png' },
