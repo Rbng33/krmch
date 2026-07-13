@@ -12,7 +12,7 @@ export default function Banners() {
         {/* Extreme banner */}
         <div className="rounded-3xl relative min-h-[280px] overflow-hidden">
           <img
-            src="../../../public/broastadd.svg"
+            src="/broastadd.svg"
             alt="Kunafa"
             className="absolute inset-0 w-full h-full object-cover"
           />
@@ -21,7 +21,7 @@ export default function Banners() {
         {/* Kunafa banner */}
         <div className="rounded-3xl relative min-h-[280px] overflow-hidden">
           <img
-            src="../../../public/kunafadd.svg"
+            src="/kunafadd.svg"
             alt="Kunafa"
             className="absolute inset-0 w-full h-full object-cover"
           />
