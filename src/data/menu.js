@@ -22,10 +22,10 @@ export const testimonials = [
 ]
 
 export const gallery = [
-  '/public/1.jpg',
-  '/public/2.jpg',
-  '/public/3.jpg',
-  '/public/4.jpg',
-  '/public/5.png',
-  '/public/6.png',
+  '/1.jpg',
+  '/2.jpg',
+  '/3.jpg',
+  '/4.jpg',
+  '/5.png',
+  '/6.png',
 ]
